@@ -2,8 +2,8 @@
 
 **Character Specs:**
 ```diff
-+    +3 Ruby
-+    +1 Vim
++    Ruby
++    Vim
 
 -    Academic Research
 ```
