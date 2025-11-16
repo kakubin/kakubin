@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/kakubin/kakubin/main/profile-summary-card-output/graywhite/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/kakubin/kakubin/main/profile-summary-card-output/graywhite/4-productive-time.svg)
-```
-
-    
